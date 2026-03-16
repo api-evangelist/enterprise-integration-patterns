@@ -1,12 +1,31 @@
+aid: enterprise-integration-patterns
 name: Enterprise Integration Patterns
-description: Enterprise Integration Patterns is a business or enterprise practice
-  that helps organizations manage operations, make strategic decisions, and achieve
-  their objectives. It encompasses the processes, tools, and methodologies needed
-  to run an effective and efficient organization.
-url: null
+description: >-
+  Enterprise Integration Patterns (EIP) is a catalog of architectural design
+  patterns for integrating enterprise applications. The patterns describe
+  messaging-based integration scenarios and provide a common vocabulary for
+  architects and developers to design and implement integration solutions. The
+  canonical reference is the book by Gregor Hohpe and Bobby Woolf.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Enterprise Integration Patterns
-created: '2025'
-modified: '2025'
+  - Integration
+  - Messaging
+  - Architecture
+  - Design Patterns
+  - Enterprise
+url: https://www.enterpriseintegrationpatterns.com/
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+access: 3rd-Party
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.enterpriseintegrationpatterns.com/
+  - type: Documentation
+    url: https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
