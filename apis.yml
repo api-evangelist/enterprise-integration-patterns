@@ -9,11 +9,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Integration
-  - Messaging
   - Architecture
   - Design Patterns
   - Enterprise
+  - Integration
+  - Messaging
 url: https://www.enterpriseintegrationpatterns.com/
 created: '2025-01-01'
 modified: '2026-03-16'
