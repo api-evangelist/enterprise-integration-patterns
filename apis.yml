@@ -25,6 +25,8 @@ access: 3rd-Party
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/enterprise-integration-patterns-domain-security.yml
   - type: Website
     url: https://www.enterpriseintegrationpatterns.com/
   - type: Documentation
